@@ -1,1 +1,4 @@
 target
+/microservicecloud-eureka-7001/*.classpath
+/microservicecloud-eureka-7001/*.project
+/microservicecloud-eureka-7001/.settings/*.prefs
