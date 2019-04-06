@@ -2,3 +2,9 @@ target
 /microservicecloud-eureka-7001/*.classpath
 /microservicecloud-eureka-7001/*.project
 /microservicecloud-eureka-7001/.settings/*.prefs
+/microservicecloud-eureka-7002/*.classpath
+/microservicecloud-eureka-7003/*.classpath
+/microservicecloud-eureka-7002/.settings/*.prefs
+/microservicecloud-eureka-7003/.settings/*.prefs
+/microservicecloud-eureka-7002/*.project
+/microservicecloud-eureka-7003/*.project
