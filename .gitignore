@@ -20,3 +20,6 @@ target
 /microservicecloud-provider-dept-hystrix-8001/*.classpath
 /microservicecloud-provider-dept-hystrix-8001/.settings/*.prefs
 /microservicecloud-provider-dept-hystrix-8001/*.project
+/microservicecloud-consumer-hystrix-dashboard/*.classpath
+/microservicecloud-consumer-hystrix-dashboard/.settings/*.prefs
+/microservicecloud-consumer-hystrix-dashboard/*.project
