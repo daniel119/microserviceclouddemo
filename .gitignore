@@ -14,3 +14,6 @@ target
 /microservicecloud-provider-dept-8003/.settings/*.prefs
 /microservicecloud-provider-dept-8002/*.project
 /microservicecloud-provider-dept-8003/*.project
+/microservicecloud-consumer-dept-feign/*.classpath
+/microservicecloud-consumer-dept-feign/.settings/*.prefs
+/microservicecloud-consumer-dept-feign/*.project
