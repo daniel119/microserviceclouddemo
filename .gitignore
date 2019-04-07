@@ -8,3 +8,9 @@ target
 /microservicecloud-eureka-7003/.settings/*.prefs
 /microservicecloud-eureka-7002/*.project
 /microservicecloud-eureka-7003/*.project
+/microservicecloud-provider-dept-8002/*.classpath
+/microservicecloud-provider-dept-8003/*.classpath
+/microservicecloud-provider-dept-8002/.settings/*.prefs
+/microservicecloud-provider-dept-8003/.settings/*.prefs
+/microservicecloud-provider-dept-8002/*.project
+/microservicecloud-provider-dept-8003/*.project
