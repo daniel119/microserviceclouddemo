@@ -17,3 +17,6 @@ target
 /microservicecloud-consumer-dept-feign/*.classpath
 /microservicecloud-consumer-dept-feign/.settings/*.prefs
 /microservicecloud-consumer-dept-feign/*.project
+/microservicecloud-provider-dept-hystrix-8001/*.classpath
+/microservicecloud-provider-dept-hystrix-8001/.settings/*.prefs
+/microservicecloud-provider-dept-hystrix-8001/*.project
