@@ -105,6 +105,7 @@
 			<module>
 				microservicecloud-consumer-hystrix-dashboard
 			</module>
+			<module>microservicecloud-zuul-gateway-9527</module>
 		</modules>
 </project>
 

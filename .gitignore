@@ -23,3 +23,6 @@ target
 /microservicecloud-consumer-hystrix-dashboard/*.classpath
 /microservicecloud-consumer-hystrix-dashboard/.settings/*.prefs
 /microservicecloud-consumer-hystrix-dashboard/*.project
+/microservicecloud-zuul-gateway-9527/*.classpath
+/microservicecloud-zuul-gateway-9527/*.project
+/microservicecloud-zuul-gateway-9527/.settings/*.prefs
