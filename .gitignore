@@ -26,3 +26,9 @@ target
 /microservicecloud-zuul-gateway-9527/*.classpath
 /microservicecloud-zuul-gateway-9527/*.project
 /microservicecloud-zuul-gateway-9527/.settings/*.prefs
+/microservicecloud-config-3344/.settings/*.prefs
+/microservicecloud-config-3344/*.project
+/microservicecloud-config-3344/*.classpath
+/microservicecloud-config-client-3355/.settings/*.prefs
+/microservicecloud-config-client-3355/*.classpath
+/microservicecloud-config-client-3355/*.project
